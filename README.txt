@@ -1,3 +1,10 @@
+4.0.1
+Fixed smokers not having spit godframes.
+Removed hittables weight change.
+Increased Natural Horde timer to 100 seconds.
+Increased Natural Horde common count from 25 to 27.
+
+
 4.0
 
 Side Config Clean Up:
