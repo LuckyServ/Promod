@@ -1,3 +1,7 @@
+4.0.2
+Removed natural hordes.
+
+
 4.0.1
 Fixed smokers not having spit godframes.
 Removed hittables weight change.
@@ -6,7 +10,6 @@ Increased Natural Horde common count from 25 to 27.
 
 
 4.0
-
 Side Config Clean Up:
 Removed unused / outdated cvars from Retro.
 Hunters and Jockeys now do 25 damage (+pounce damage) per pounce in 1v1 configs.
