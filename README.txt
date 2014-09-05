@@ -1,3 +1,19 @@
+4.0.3
+All configs included in the pro mod package now support the first 4 CCT3 maps.
+Made several improvements / fixes to the CCT maps. (Full list here: http://pastebin.com/e6WNsd9y)
+Added support for Hard Rain Downpour.
+Significantly cleaned up some of the configs. (Will finish this in next update)
+Godframe indicator is now enabled by default.
+Reduced charger and hunter godframes to 1.8 (From 2.1)
+Reduced smoker and jockey spit extra time to 0.5 (From 0.7)
+Spit godframe ticks increased from 4 to 6. (Vanilla is 8)
+Reduced AOE on survivor self bile to match AOE of regular use.
+Hunters now do continuous damage ticks. (Similar to how jockeys do damage.)
+Unblocked very early tanks on No Mercy 1. (10-25%)
+Tanks will now lose rage normally in the following saferooms:
+Dead Center 1, Hard Rain 2, No Mercy 1, No Mercy 5, Death Toll 1, Blood Harvest 2
+
+
 4.0.2
 Removed natural hordes.
 
