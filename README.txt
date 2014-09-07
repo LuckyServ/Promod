@@ -1,3 +1,12 @@
+4.0.4
+Added support for the final 2 CCT maps.
+Added a print for maps where tank loses rage while survivors are in saferoom.
+Increased Open Road 3 map distance to 600.
+Fixed Dark Blood 2 map 3's stripper file not working properly causing the map to be unplayable.
+Increased bile duration vs infected to 8. (From 5)
+Finished cleaning up configs and added a documentation file.
+
+
 4.0.3
 All configs included in the pro mod package now support the first 4 CCT3 maps.
 Made several improvements / fixes to the CCT maps. (Full list here: http://pastebin.com/e6WNsd9y)

@@ -1556,7 +1556,7 @@
         "end_dist"          "300.000000"
         "tank_ban_flow_min" "70"
         "tank_ban_flow_max" "100"
-		"max_distance"      "600"
+	"max_distance"      "600"
     }
     "x1m5_salvation"
     {
@@ -1573,6 +1573,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "50.000000"
+	"max_distance"      "500"
     }
     "uz_town"
     {
@@ -1581,6 +1582,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "500.000000"
         "end_dist"          "50.000000"
+	"max_distance"      "600"
     }
     "uz_desert"
     {
@@ -1605,6 +1607,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "500.000000"
         "end_dist"          "50.000000"
+        "tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "63"
     }
 
 
