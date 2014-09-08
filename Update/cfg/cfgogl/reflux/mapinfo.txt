@@ -1355,8 +1355,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "400.000000"
         "end_dist"          "50.000000"
-        "tank_ban_flow_min" "30"
-        "tank_ban_flow_max" "50"
+        "tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "49"
     }
     "l4d2_diescraper2_streets_34"
     {
@@ -1381,6 +1381,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "400.000000"
         "end_dist"          "50.000000"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "58"
     }
 	"damitdc1"
     {
@@ -1545,7 +1547,6 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "500.000000"
         "end_dist"          "350.000000"
-        "max_distance"      "500"
     }
     "x1m4_forest"
     {
@@ -1573,6 +1574,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "50.000000"
+        "max_distance"      "500"
     }
     "uz_town"
     {
@@ -1581,6 +1583,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "500.000000"
         "end_dist"          "50.000000"
+        "max_distance"      "600"
     }
     "uz_desert"
     {
@@ -1605,6 +1608,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "500.000000"
         "end_dist"          "50.000000"
+        "tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "65"
     }
 
 

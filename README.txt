@@ -1,10 +1,12 @@
 4.0.4
 Added support for the final 2 CCT maps.
 Added a print for maps where tank loses rage while survivors are in saferoom.
+Enabled tank rage tickdown in Open Road 2 saferoom.
 Increased Open Road 3 map distance to 600.
+Fixed a couple spit blocks being missing.
 Fixed Dark Blood 2 map 3's stripper file not working properly causing the map to be unplayable.
 Increased bile duration vs infected to 8. (From 5)
-Finished cleaning up configs and added a documentation file.
+Finished cleaning up configs, a documentation file will be added in the near future.
 
 
 4.0.3
