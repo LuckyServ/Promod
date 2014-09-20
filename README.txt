@@ -1,3 +1,20 @@
+4.0.4a
+Opened an alternate path on Urban Flight 2 which should shorten the length of the map by a bit.
+Removed extra gascans from Urban Flight finale.
+Removed some possible extra pill spawns from Urban Flight finale.
+Removed endless horde on Undead Zone 2.
+Added a way for infected to get out of a stuck spot on Undead Zone finale.
+Added an ammo pile in the hangar where pills are on Undead Zone finale.
+Removed possible medkit spawns from Diescraper 3 start saferoom.
+Reduced Diescraper 3 max distance to 700.
+Added 2nd finale tank to Diescraper Finale.
+Tank will now lose rage while survivors are in Arena of the Dead 2 map 2 saferoom.
+Slightly nerfed the insane ladder choke on Dark Blood 2 finale.
+Added melee weapons to Open Road 3 alarmed gun room.
+Added more spawns to open plane area of Undead Zone map 3.
+Added an ammo pile on Undead Zone map 3.
+
+
 4.0.4
 Added support for the final 2 CCT maps.
 Added a print for maps where tank loses rage while survivors are in saferoom.

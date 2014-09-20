@@ -1373,6 +1373,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "50.000000"
+		"max_distance"      "700"
     }
     "l4d2_diescraper4_top_34"
     {
