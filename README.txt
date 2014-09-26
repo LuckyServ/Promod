@@ -1,3 +1,73 @@
+4.0.4c
+General-
+- Fixed gascans spawning on some peoples servers.
+- Vote kick ban time reduced from 5 minutes to 1 in all Pro Mod configs.
+- Added support for a shared plugins file. All Pro Mod configs will read from "sharedplugins.cfg" in your left4dead2/cfg/ folder.
+- Improved shadowing on a lot of props.
+- Cleaned up stripper files.
+
+Map Changes-
+Swamp Fever 2:
+- Added a spawn near the usual event camping area
+- Reduced props near the shack after event
+Swamp Fever 4:
+- Improved clipping on fallen log that leads to a rooftop (you will no longer get stuck on it)
+- Fixed a stuck spot under the planks that lead to the roof
+- Blocked Survivors from getting on some bushes near where you enter the town
+- Blocked Survivors from climbing the barrel stack intended for SI
+- Removed an unecessary prop in the town
+- Blocked Survivors from getting punched onto a tall bush in the plantation backyard
+- There will now always be a Chrome Shotgun and Silenced SMG in the mansion
+- Added an ammo pile and a propane spawn in the plantation backyard
+Hard Rain 1 and 5:
+- Removed unbreakable porta potty door
+Dark Carnival 3:
+- You will no longer get stuck inside swans in the Tunnel of Love
+- Blocked a high-tickrate-only shortcut that would let you jump to the second level in the swan room from the ground level (not the generator shortcut)
+- Blocked Survivors from getting punched onto a water tank in the swan room
+Dark Carnival 4:
+- Improved clipping on white fences surrounding saferoom
+- Removed unbreakable porta potty doors
+- Reduced viability of fighting Tank in the saferoom
+- Tank will now lose rage normally while survivors are in the saferoom
+- Moustachio horde can no longer be triggered by tank
+
+Side configs-
+- Updated all side configs to have the most recent CCT changes.
+- Pro Mod 1v1 and 1v1 Hunters no longer have witches. (Deadman still has both witches and tanks.)
+- Common limit reduced from 7 to 6 in all 1v1 configs.
+- Mega Mob size reduced from 12 to 10 in all 1v1 configs.
+- Gascan pour time reduced to 0.7 in all 1v1 configs.
+- Deadstop field of view reduced to 15 in all 1v1 configs.
+- Fixed Deadman not having proper spawn timers and damage per pounce.
+- Reduced Jockey HP in Pro Mod 1v1 to 250.
+- Added chargers to Pro Mod 1v1. They have 450 hp, 6 second cooldown on charge, 0 damage on the first scratch, and 5 damage on any scratches after that.
+
+CCT-
+- Survivors can no longer fall out the side of the lift on Arena of the Dead map 3.
+- Removed all color correction from Undead Zone.
+- Fixed error prop not being properly hidden on Undead Zone 1.
+- Removed 2nd event from Undead Zone 1.
+- Blocked survivors getting punched over a fence that they couldn't get back from on Undead Zone 2.
+- Fixed weird shadowing of a prop on Undead Zone 3.
+- Blocked survivors climbing on the metal rail we added for SI on Undead Zone 3.
+- Flickering lights on Undead Zone 4 are now constant to improve FPS.
+- Blocked instant tank spawn on Undead Zone 4.
+- Fixed infected being unable to spawn on 2nd half of Urban Flight Finale.
+- Removed an extra pill spawn from Urban Flight Finale.
+- Fixed a broken ladder on Urban Flight Finale.
+- Unblocked early tanks on Dark Blood map 3.
+- Blocked event tanks on Dark Blood map 3.
+- Survivors no longer have to climb the ladder of doom on Dark Blood Finale. The gascans have been moved to more reasonable places.
+- Fixed infected not being able to spawn behind some bushes on Open Road 2.
+- Fixed infected not being able to spawn behind some bushes on Open Road 4.
+- Fixed the shadows of some props on Open Road 4.
+
+
+4.0.4b
+Undocumented 1v1 config update for a tourney. Properly documented under 4.0.4c
+
+
 4.0.4a
 Opened an alternate path on Urban Flight 2 which should shorten the length of the map by a bit.
 Removed extra gascans from Urban Flight finale.
@@ -13,6 +83,7 @@ Slightly nerfed the insane ladder choke on Dark Blood 2 finale.
 Added melee weapons to Open Road 3 alarmed gun room.
 Added more spawns to open plane area of Undead Zone map 3.
 Added an ammo pile on Undead Zone map 3.
+Reduced votekick ban duration from 5 minutes to 1 minute.
 
 
 4.0.4

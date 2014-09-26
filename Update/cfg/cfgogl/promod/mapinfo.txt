@@ -1509,8 +1509,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "75.000000"
-        "tank_ban_flow_min" "0"
-        "tank_ban_flow_max" "22"
+        "tank_ban_flow_min" "65"
+        "tank_ban_flow_max" "100"
         "max_distance"      "600"
     }
     "l4d2_darkblood04_extraction"
@@ -1601,6 +1601,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "50.000000"
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "20"
     }
     "uz_escape"
     {
@@ -1612,6 +1614,4 @@
         "tank_ban_flow_min" "0"
         "tank_ban_flow_max" "65"
     }
-
-
 }
