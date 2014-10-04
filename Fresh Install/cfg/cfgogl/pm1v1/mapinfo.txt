@@ -1498,8 +1498,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "75.000000"
-        "tank_ban_flow_min" "0"
-        "tank_ban_flow_max" "20"
+        "tank_ban_flow_min" "31"
+        "tank_ban_flow_max" "36"
         "max_distance"      "700"
     }
     "l4d2_darkblood03_platform"
@@ -1509,8 +1509,8 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "200.000000"
         "end_dist"          "75.000000"
-        "tank_ban_flow_min" "65"
-        "tank_ban_flow_max" "100"
+        "tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "23"
         "max_distance"      "600"
     }
     "l4d2_darkblood04_extraction"

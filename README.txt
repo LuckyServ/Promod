@@ -1,3 +1,23 @@
+4.0.4d
+The !current command will now be much more accurate relative to tank spawns.
+Fixed spawn timers not being properly set in 1v1 configs.
+Fixed witches spawning in 1v1s.
+Fixed people getting stuck on invis walls in the tunnel of love. (Dark Carnival 3)
+Fixed "Fixing Waiting For Finale to Start issue for all infected" printing every round.
+Unblocked an early tank spawn on Dark Blood map 2.
+Tank will still lose rage while survivors are in saferoom on Dark Blood Map 2.
+Blocked tank spawning while survivors are underwater on Dark Blood map 2.
+Any tank that spawns after survivors have rode the lift up on Dark Blood map 2 will be spawned near the end saferoom, to give survivors breathing room.
+Re-blocked early tanks on Dark Blood map 3.
+Unblocked event tanks on Dark Blood 3.
+Any tank that spawns after survivors have started the event on Dark Blood map 3 will be spawned at the end saferoom, to give survivors breathing room.
+Made it much easier for tank to get out of a "stuck spot" on Dark Blood finale.
+Removed all fireworks from Arena Of The Dead.
+Removed an unbreakable freezer door from Urban Flight 1.
+Made a few (interior) panes of glass breakable on Diescraper Redux Finale.
+Fixed a tank stuck spot on Undead Zone finale.
+
+
 4.0.4c
 General-
 - Fixed gascans spawning on some peoples servers.
