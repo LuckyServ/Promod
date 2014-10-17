@@ -1,3 +1,9 @@
+4.0.4e
+Blocked an out of map stuck spot on Undead Zone finale.
+Increased Parish 1 map distance to 400.
+Fixed players getting stuck after loading in during a pause.
+
+
 4.0.4d
 The !current command will now be much more accurate relative to tank spawns.
 Fixed spawn timers not being properly set in 1v1 configs.
