@@ -5,6 +5,7 @@ Banned witch at top of elevator on Hard Rain 3 which could be killed before the 
 Remade stripper path to better cater to side configs using unique stripper folders.
 Removed water slowdown prints.
 You now receive your starting pills when the round goes live, instead of when you leave saferoom.
+All melee weapon spawns are now single pickup.
 
 
 4.0.4e
