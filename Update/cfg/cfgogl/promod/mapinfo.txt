@@ -122,6 +122,8 @@
         "start_extra_dist"  "200.000000"
         "end_dist"          "200.000000"
         "max_distance"      "600"
+        "witch_flow_min"    "0"
+        "witch_flow_max"    "54"
     }
     "c3m4_plantation"
     {
@@ -166,6 +168,8 @@
         "end_dist"          "300.000000"
         "tank_ban_flow_min" "20"
         "tank_ban_flow_max" "35"
+        "witch_flow_min"    "28"
+        "witch_flow_max"    "100"
     }
     "c4m4_milltown_b"
     {
@@ -214,6 +218,8 @@
         "end_dist"          "250.000000"
         "tank_ban_flow_min" "57"
         "tank_ban_flow_max" "70"
+        "witch_flow_min"    "28"
+        "witch_flow_max"    "100"
     }
     "c5m4_quarter"
     {

@@ -1,3 +1,8 @@
+4.0.4f
+Banned early witches on Parish 3 since most were prone to glitching out.
+Banned witches during the event on Swamp Fever 3 since they spawned far from the main path.
+Banned witch at top of elevator on Hard Rain 3 which could be killed before the elevator door opened.
+
 4.0.4e
 Blocked an out of map stuck spot on Undead Zone finale.
 Increased Parish 1 map distance to 400.
