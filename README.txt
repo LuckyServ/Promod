@@ -2,6 +2,7 @@
 Banned early witches on Parish 3 since most were prone to glitching out.
 Banned witches during the event on Swamp Fever 3 since they spawned far from the main path.
 Banned witch at top of elevator on Hard Rain 3 which could be killed before the elevator door opened.
+Remade stripper path to better cater to side configs using unique stripper folders.
 
 4.0.4e
 Blocked an out of map stuck spot on Undead Zone finale.
