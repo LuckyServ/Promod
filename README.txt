@@ -6,6 +6,7 @@ Remade stripper path to better cater to side configs using unique stripper folde
 Removed water slowdown prints.
 You now receive your starting pills when the round goes live, instead of when you leave saferoom.
 All melee weapon spawns are now single pickup.
+Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
 
 
 4.0.4e
