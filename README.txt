@@ -10,6 +10,8 @@ Despawning a special infected will now give you half your missing HP back. (For 
 Infected ghost hurt is now enabled after the round goes live.
 Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
 Infected ghost warp rebound from Attack2 (Mouse 2) to Reload.
+Replaced pumpshotguns with chromes in 1v1 configs.
+Reflux now uses a modified version of Pro Mod's stripper files.
 
 
 4.0.4e
