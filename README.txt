@@ -1,4 +1,4 @@
-4.0.4f
+4.1
 Banned early witches on Parish 3 since most were prone to glitching out.
 Banned witches during the event on Swamp Fever 3 since they spawned far from the main path.
 Banned witch at top of elevator on Hard Rain 3 which could be killed before the elevator door opened.
@@ -6,7 +6,10 @@ Remade stripper path to better cater to side configs using unique stripper folde
 Removed water slowdown prints.
 You now receive your starting pills when the round goes live, instead of when you leave saferoom.
 All melee weapon spawns are now single pickup.
+Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would give put you at 300. Despawning with 300 HP would put you to 450.)
+Infected ghost hurt is now enabled after the round goes live.
 Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
+Infected ghost warp rebound from Attack2 (Mouse 2) to Reload.
 
 
 4.0.4e
