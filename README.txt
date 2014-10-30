@@ -4,6 +4,7 @@ Banned witches during the event on Swamp Fever 3 since they spawned far from the
 Banned witch at top of elevator on Hard Rain 3 which could be killed before the elevator door opened.
 Remade stripper path to better cater to side configs using unique stripper folders.
 Removed water slowdown prints.
+Added an audio cue for tank spawns.
 You now receive your starting pills when the round goes live, instead of when you leave saferoom.
 All melee weapon spawns are now single pickup.
 Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would give put you at 300. Despawning with 300 HP would put you to 450.)
@@ -26,6 +27,7 @@ Witches no longer follow the same spawning limitations as tanks, allowing for a 
 Removed clips above the motel on Dark Carnival 1.
 Removed a clip above a shelf in the swan room of Dark Carnival 3.
 Removed a clip to give SI access to a breakable wall on Swap Fever 4.
+Reverted pause plugin update as some people were still reporting issues.
 
 
 4.0.4e
