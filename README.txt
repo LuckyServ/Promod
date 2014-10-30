@@ -8,6 +8,7 @@ You now receive your starting pills when the round goes live, instead of when yo
 All melee weapon spawns are now single pickup.
 Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would give put you at 300. Despawning with 300 HP would put you to 450.)
 Infected ghost hurt is now enabled after the round goes live.
+Infected can no longer be lit on fire. They will however still take damage while standing in fire.
 Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
 Infected ghost warp rebound from Attack2 (Mouse 2) to Reload.
 Replaced pumpshotguns with chromes in 1v1 configs.
@@ -20,7 +21,8 @@ Increased pill count in tank arena from 2 to 4.
 Removed the maze of balance from the end of Parish 5.
 Removed escape tanks from Parish 5.
 Increased Parish 5 map distance to 600.
-Infected can no longer be lit on fire. They will however still take damage while standing in fire.
+Fixed Swamp Fever 4 printing custom max distance despite it being default distance.
+Witches no longer follow the same spawning limitations as tanks, allowing for more variance in spawns.
 
 
 4.0.4e
