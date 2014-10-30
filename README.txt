@@ -22,7 +22,10 @@ Removed the maze of balance from the end of Parish 5.
 Removed escape tanks from Parish 5.
 Increased Parish 5 map distance to 600.
 Fixed Swamp Fever 4 printing custom max distance despite it being default distance.
-Witches no longer follow the same spawning limitations as tanks, allowing for more variance in spawns.
+Witches no longer follow the same spawning limitations as tanks, allowing for a wider range of possible spawns.
+Removed clips above the motel on Dark Carnival 1.
+Removed a clip above a shelf in the swan room of Dark Carnival 3.
+Removed a clip to give SI access to a breakable wall on Swap Fever 4.
 
 
 4.0.4e
