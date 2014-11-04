@@ -45,7 +45,7 @@
         "start_dist"        "50.000000"
         "start_extra_dist"  "150.000000"
         "end_dist"          "150.000000"
-		"max_distance"      "700"
+	"max_distance"      "700"
         "ItemLimits"
         {
             "pain_pills"    "0"
