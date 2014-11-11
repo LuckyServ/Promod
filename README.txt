@@ -27,10 +27,8 @@ Witches no longer follow the same spawning limitations as tanks, allowing for a 
 Removed clips above the motel on Dark Carnival 1.
 Removed a clip above a shelf in the swan room of Dark Carnival 3.
 Removed a clip to give SI access to a breakable wall on Swap Fever 4.
-Reverted pause plugin update as some people were still reporting issues.
-Infected are now immediately given normal spectator controls after death, there is no death cam.
-Infected can no longer spam +attack and +jump in order to get a faster spawn timer. (Yes this was a real thing)
-Spawn timers reduced by 1 second.
+Fixed an exploit which allowed Tank to kill incapacitated survivors with random props that aren't supposed to do damage.
+Reduced the possibility of hittables doing more than 1 damage instance per tank hit. (This means that it's less likely for a log to roll on you and instantly kill you after only 1 tank hit.)
 
 
 4.0.4e
