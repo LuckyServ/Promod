@@ -29,6 +29,8 @@ Removed a clip above a shelf in the swan room of Dark Carnival 3.
 Removed a clip to give SI access to a breakable wall on Swap Fever 4.
 Fixed an exploit which allowed Tank to kill incapacitated survivors with random props that aren't supposed to do damage.
 Reduced the possibility of hittables doing more than 1 damage instance per tank hit. (This means that it's less likely for a log to roll on you and instantly kill you after only 1 tank hit.)
+Tank will now lose rage normally while survivors are in the saferoom on Swamp Fever 3.
+Blocked infected friendly fire against witch, excluding tank.
 
 
 4.0.4e
