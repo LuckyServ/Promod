@@ -31,6 +31,7 @@ Fixed an exploit which allowed Tank to kill incapacitated survivors with random 
 Reduced the possibility of hittables doing more than 1 damage instance per tank hit. (This means that it's less likely for a log to roll on you and instantly kill you after only 1 tank hit.)
 Tank will now lose rage normally while survivors are in the saferoom on Swamp Fever 3.
 Blocked infected friendly fire against witch, excluding tank.
+Infected bots will now be kicked 10 seconds after tank spawns if they are not capping a survivor.
 
 
 4.0.4e
