@@ -32,6 +32,7 @@ Reduced the possibility of hittables doing more than 1 damage instance per tank 
 Tank will now lose rage normally while survivors are in the saferoom on Swamp Fever 3.
 Blocked infected friendly fire against witch, excluding tank.
 Infected bots will now be kicked 10 seconds after tank spawns if they are not capping a survivor.
+Witch no longer respawns when killed by tank.
 
 
 4.0.4e
