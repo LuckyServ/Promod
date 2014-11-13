@@ -7,12 +7,11 @@ Removed water slowdown prints.
 Added an audio cue for tank spawns.
 You now receive your starting pills when the round goes live, instead of when you leave saferoom.
 All melee weapon spawns are now single pickup.
-Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would give put you at 300. Despawning with 300 HP would put you to 450.)
+Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would put you at 300. Despawning with 300 HP would put you at 450.)
 Infected ghost hurt is now enabled after the round goes live.
 Infected can no longer be lit on fire. They will however still take damage while standing in fire.
 Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
 Infected ghost warp rebound from Attack2 (Mouse 2) to Reload.
-Replaced pumpshotguns with chromes in 1v1 configs.
 Reflux now uses a modified version of Pro Mod's stripper files.
 Added an intro tank to Parish 5.
 Tank will now lose rage while survivors are in the saferoom on Parish 5.
@@ -33,6 +32,17 @@ Tank will now lose rage normally while survivors are in the saferoom on Swamp Fe
 Blocked infected friendly fire against witch, excluding tank.
 Infected bots will now be kicked 10 seconds after tank spawns if they are not capping a survivor.
 Witch no longer respawns when killed by tank.
+Distance points will now accurately reflect your current position in the map. In other words, you will lose distance by running backwards.
+Distance points now increment a bit smoother, showing more accurate values.
+Added static shotgun spread. Values are the same as Redtown, except that they don't do increased damage to commons.
+Fixed hunters being able to instantly repounce after being shoved.
+Shoving a special infected will now increase your fatigue by 1.
+Fixed all survivors using coach's grunt noise when using melee weapons.
+Replaced all pumpshotguns with chromes and smgs with silenced uzis in all 1v1 configs.
+Hunters can now pounce and scratch through doors instantly in all 1v1 configs.
+Common will now instantly destroy doors in all 1v1 configs.
+Gas can pour time reduced from 0.7 to 0.5 in all 1v1 configs.
+Fixed Blood Harvest 3 and Dead Air 4 events spawning too many commons in 1v1 configs.
 
 
 4.0.4e
