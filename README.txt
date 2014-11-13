@@ -1,48 +1,154 @@
 4.1
-Banned early witches on Parish 3 since most were prone to glitching out.
-Banned witches during the event on Swamp Fever 3 since they spawned far from the main path.
-Banned witch at top of elevator on Hard Rain 3 which could be killed before the elevator door opened.
-Remade stripper path to better cater to side configs using unique stripper folders.
-Removed water slowdown prints.
-Added an audio cue for tank spawns.
-You now receive your starting pills when the round goes live, instead of when you leave saferoom.
-All melee weapon spawns are now single pickup.
-Despawning a special infected will now give you half your missing HP back. (For example let's use a charger. Despawning with 1 HP would put you at 300. Despawning with 300 HP would put you at 450.)
-Infected ghost hurt is now enabled after the round goes live.
-Infected can no longer be lit on fire. They will however still take damage while standing in fire.
-Pro Mod no longer uses the Entity Remover module from confogl. All removals are done via stripper.
-Infected ghost warp rebound from Attack2 (Mouse 2) to Reload.
-Reflux now uses a modified version of Pro Mod's stripper files.
-Added an intro tank to Parish 5.
-Tank will now lose rage while survivors are in the saferoom on Parish 5.
-Removed all of the reduced damage cars from the "tank arena" portion of the bridge.
-Added a full damage hittable car to the "tank arena" portion of the bridge.
-Increased pill count in tank arena from 2 to 4.
-Removed the maze of balance from the end of Parish 5.
-Removed escape tanks from Parish 5.
-Increased Parish 5 map distance to 600.
-Fixed Swamp Fever 4 printing custom max distance despite it being default distance.
-Witches no longer follow the same spawning limitations as tanks, allowing for a wider range of possible spawns.
-Removed clips above the motel on Dark Carnival 1.
-Removed a clip above a shelf in the swan room of Dark Carnival 3.
-Removed a clip to give SI access to a breakable wall on Swap Fever 4.
-Fixed an exploit which allowed Tank to kill incapacitated survivors with random props that aren't supposed to do damage.
-Reduced the possibility of hittables doing more than 1 damage instance per tank hit. (This means that it's less likely for a log to roll on you and instantly kill you after only 1 tank hit.)
-Tank will now lose rage normally while survivors are in the saferoom on Swamp Fever 3.
-Blocked infected friendly fire against witch, excluding tank.
-Infected bots will now be kicked 10 seconds after tank spawns if they are not capping a survivor.
-Witch no longer respawns when killed by tank.
-Distance points will now accurately reflect your current position in the map. In other words, you will lose distance by running backwards.
-Distance points now increment a bit smoother, showing more accurate values.
-Added static shotgun spread. Values are the same as Redtown, except that they don't do increased damage to commons.
-Fixed hunters being able to instantly repounce after being shoved.
-Shoving a special infected will now increase your fatigue by 1.
-Fixed all survivors using coach's grunt noise when using melee weapons.
-Replaced all pumpshotguns with chromes and smgs with silenced uzis in all 1v1 configs.
-Hunters can now pounce and scratch through doors instantly in all 1v1 configs.
-Common will now instantly destroy doors in all 1v1 configs.
-Gas can pour time reduced from 0.7 to 0.5 in all 1v1 configs.
-Fixed Blood Harvest 3 and Dead Air 4 events spawning too many commons in 1v1 configs.
+General-
+
+Witches:
+- Witches no longer follow the same spawning limitations as tanks, allowing for a wider range of possible spawns
+- Blocked infected friendly fire against witch, excluding tank
+- Witch no longer respawns when killed by tank
+- Survivors will now receive points if witch is killed by tank
+- Witch bonus will no longer print to chat
+
+Tanks:
+- Fixed an exploit which allowed Tank to kill incapacitated survivors with random props that aren't supposed to do damage
+- Reduced the possibility of hittables doing more than 1 damage instance per tank hit (This means that it's less likely for a log to roll on you and instantly kill you after only 1 tank hit)
+- Infected bots will now be kicked 10 seconds after tank spawns if they are not capping a survivor
+- Removed water slowdown change prints
+- Added an audio cue for tank spawns
+- Added a new print for tank spawns: "Tank is now in play"
+
+Survivors:
+- All melee weapon spawns are now single pickup
+- You now receive your starting pills when the round goes live, rather than when you leave saferoom
+- Distance points will now accurately reflect your current position in the map, rather than the max distance you went to
+- Distance points now increment a bit smoother, showing more accurate values
+- Shoving a special infected will now increase your fatigue by 1
+- Added static shotgun spread. Values are based off RedTown. (We will continue to look to improve it)
+- Fixed all survivors using coach's grunt noise when using melee weapons
+
+Special Infected:
+- Infected ghost hurt is now enabled after the round goes live
+- Infected ghost warp rebound from Mouse 2 to Reload
+- Despawning a special infected will now give you half of your missing HP back (This does not mean half of your max hp)
+- Infected can no longer be lit on fire (They will however still take damage while standing in fire)
+- Fixed hunters being able to instantly repounce after being shoved
+
+Miscellaneous:
+- Removed triggers that forced players to crouch near vents/holes
+- Remade stripper path to better cater to side configs using unique stripper folders
+- Pro Mod no longer uses the Entity Remover module from confogl (All functions have been replaced by better options)
+
+
+Map Changes-
+
+Dark Carnival 1:
+- Unlocked the motel rooftop for SI
+- Blocked the motel rooftop for Survivors
+- Added two paths onto the rooftop
+- Added some "no entry" markers for SI, to specify where unremovable rooftop clips still remain
+- Removed tree before the hill drop
+- Blocked the top of a bush next to the campsite hill drop
+Dark Carnival 2:
+- Blocked the tops of the five porta potties after you leave the warehouse
+- Blocked the tops of the two hedges after you leave the warehouse
+- Removed sandbags at the start, replaced with an SI ladder (yellow pole)
+- Added a ladder choke nerf similar to Parish 3 in hunters configs
+Dark Carnival 3:
+- The coaster will no longer collide with or damage players and NPCs
+- Blocked an exploit to skip the event
+- Removed a Valve invisible wall in the swan room
+- Added a second shelf above the first to block a spot that commons cannot path to
+- Improved clipping on the sides of the shelves in the swan room
+- Blocked an unteleportably stuck spot in the swan room
+- Improved clip alignment over the hanging fence in the tunnel
+- Added a prop to cover up a broken infected ladder
+- Blocked players from entering the vent alt path in hunters configs
+Dark Carnival 4:
+- You can now charge, jockey, and pull survivors off the lower barn roof sections without getting blocked. Removed plank props as they are no longer necessary
+- Blocked Survivors from getting on the tops of the bushes after you leave the barns
+- Added props to cover up a broken infected ladder
+Dark Carnival 5:
+- Blocked Survivors from getting hit onto the 9 metal support beams underneath the stadium roof
+- Blocked the tops of the 5 upright soda machines around the usual camping spot
+- Improved clipping around a trash bin at the top of the stadium
+- Blocked an event camping spots under the open tents in hunters configs
+Swamp Fever 3:
+- Blocked witch spawns during the event as they were often far from the intended path
+- Tank will now lose rage normally while survivors are in the saferoom on Swamp Fever 3
+Swamp Fever 4:
+- Removed a Valve invisible wall near the upstairs event camping area, giving SI access to a breakable wall
+- Fixed custom max distance printing despite the distance being default
+Hard Rain 1 and 4:
+- Improved clipping on a fence near the 2nd floor one way drop on map 4
+- Added a minor prop for detail
+- Removed a few of the orange cones around map 1 end saferoom/map 4 opening saferoom
+- Blocked the top of the fence for Survivors right outside map 1 end saferoom/map 4 end saferoom
+Hard Rain 3:
+- Blocked a witch spawn at the top of the elevator which could be killed before the door opened.
+The Parish 1:
+- Fixed pistol sometimes still falling into the water
+- Removed a Valve invisible wall that partially blocked access to the end saferoom rooftop
+- Added a prop to allow SI to access the end saferoom rooftop
+- Added a prop to get out of an unteleportably stuck spot behind a fence
+The Parish 2:
+- Removed concrete wall props in the open area after the bus station
+- Added a wall opposite the one in front of the restrooms in the park
+- Additional tree in the park is now slimmer and harder to use as an LOS/juking spot
+- Park will continue to be revamped and tweaked based on feedback
+The Parish 3:
+- Blocked a high tickrate jump onto a tall green fence before the 2nd story drop
+- Fixed Survivors getting caught on an unclipped infected ladder
+- Blocked early witch spawns that were prone to glitching out
+The Parish 4:
+- Blocked an event camping spot underneath the stairs in hunters configs
+The Parish 5:
+- Added an intro tank that will spawn when survivors hit the radio
+- Tank will now lose rage while survivors are in the saferoom on Parish 5
+- Removed all of the reduced damage cars from the "tank arena" portion of the bridge
+- Added a full damage hittable car to the "tank arena" portion of the bridge
+- Increased pill count in tank arena from 2 to 4, and moved them to the truck after drop
+- Removed the maze of balance after the bridge
+- Removed escape tanks
+- Increased map distance to 600
+Death Toll 1:
+- Added a static ammo pile near the end of the tunnel
+Death Toll 2:
+- Blocked an event camping spot in the rescue closet in hunters configs
+Death Toll 3:
+- Blocked a high tickrate shortcut to skip the train choke
+Death Toll 4:
+- Removed 4 pointless pill spawns at the very end
+- Fixed pills spawning in the end saferoom
+- Blocked a bunch of god-spot shelves in the warehouse behind the convienience store
+Dead Air 3:
+- Blocked an event camping spot under the pipes in hunters configs
+- Blocked an event camping spot in the rescue closet in hunters configs
+Dead Air 4:
+- Fixed too many commons spawning during the event in 1v1 configs
+- Blocked an event camping spot under some stairs in hunter configs
+- You will no longer get pushed by the moving event van
+Blood Harvest 3:
+- Fixed too many commons spawning during the event in 1v1 configs
+Blood Harvest 4:
+- Removed a pointless invisible wall after exiting the warehouse
+- Removed all props except one near end saferoom
+Hard Rain: Downpour:
+- Fixed stripper file being named incorrectly
+- Fixed multiple Witches sometimes spawning
+
+
+Side Configs-
+
+1v1s:
+- Replaced all pumpshotguns with chromes and smgs with silenced uzis
+- Hunters can now pounce and scratch through doors instantly
+- Common will now instantly destroy doors
+- Gas can pour time reduced from 0.7 to 0.5
+Reflux:
+- Reflux now uses a modified version of Pro Mod's stripper files, rather than Retro's
+Hunters:
+- All hunter exclusive configs now share a unique stripper folder
+Redtown:
+- Pro Mod Redtown is now included in the Pro Mod package
 
 
 4.0.4e
