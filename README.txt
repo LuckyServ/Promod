@@ -22,6 +22,7 @@ Survivors:
 - Distance points will now accurately reflect your current position in the map, rather than the max distance you went to
 - Distance points now increment a bit smoother, showing more accurate values
 - Shoving a special infected will now increase your fatigue by 1
+- Restored hunter shove FOV to 30.
 - Added static shotgun spread. Values are based off RedTown. (We will continue to look to improve it)
 - Fixed all survivors using coach's grunt noise when using melee weapons
 
@@ -105,7 +106,7 @@ The Parish 5:
 - Tank will now lose rage while survivors are in the saferoom on Parish 5
 - Removed all of the reduced damage cars from the "tank arena" portion of the bridge
 - Added a full damage hittable car to the "tank arena" portion of the bridge
-- Increased pill count in tank arena from 2 to 4, and moved them to the truck after drop
+- Increased pill count in tank arena from 2 to 4
 - Removed the maze of balance after the bridge
 - Removed escape tanks
 - Increased map distance to 600
