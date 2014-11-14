@@ -19,8 +19,6 @@ Tanks:
 Survivors:
 - All melee weapon spawns are now single pickup
 - You now receive your starting pills when the round goes live, rather than when you leave saferoom
-- Distance points will now accurately reflect your current position in the map, rather than the max distance you went to
-- Distance points now increment a bit smoother, showing more accurate values
 - Shoving a special infected will now increase your fatigue by 1
 - Restored hunter shove FOV to 30.
 - Added static shotgun spread. Values are based off RedTown. (We will continue to look to improve it)
