@@ -8,6 +8,7 @@ Fixed witches still taking damage from SI.
 Tank can no longer be stumbled while throwing a rock. (This fixes the ghost rock bug)
 You can now locally mute a player with !smute (!sunmute to unmute them)
 Updated list of what will be displayed by the Skill Detect plugin.
+Improved a few aspects of infected AI.
 
 
 4.1
