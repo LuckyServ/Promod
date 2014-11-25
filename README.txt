@@ -1,3 +1,15 @@
+4.2
+Fixed some incorrect hittable interactions.
+Updated Diescraper Redux files to support latest version.
+Removed a broken witch spawn on Hard Rain 3.
+Removed a broken witch spawn on Swamp Fever 2.
+Boomer hordes will now always be the same size.
+Fixed witches still taking damage from SI.
+Tank can no longer be stumbled while throwing a rock. (This fixes the ghost rock bug)
+You can now locally mute a player with !smute (!sunmute to unmute them)
+Updated list of what will be displayed by the Skill Detect plugin.
+
+
 4.1
 General-
 
