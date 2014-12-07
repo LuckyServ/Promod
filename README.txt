@@ -1,14 +1,26 @@
-4.2
-Fixed some incorrect hittable interactions.
-Updated Diescraper Redux files to support latest version.
-Removed a broken witch spawn on Hard Rain 3.
-Removed a broken witch spawn on Swamp Fever 2.
-Boomer hordes will now always be the same size.
-Fixed witches still taking damage from SI.
-Tank can no longer be stumbled while throwing a rock. (This fixes the ghost rock bug)
-You can now locally mute a player with !smute (!sunmute to unmute them)
-Updated list of what will be displayed by the Skill Detect plugin.
-Improved a few aspects of infected AI.
+DO NOT UPLOAD THIS!
+
+- Fixed some incorrect hittable interactions.
+- Updated Diescraper Redux files to support latest version.
+- Removed a broken witch spawn on Hard Rain 3.
+- Removed a broken witch spawn on Swamp Fever 2.
+- Boomer hordes will now always be the same size.
+- Fixed witches still taking damage from SI.
+- Tank can no longer be stumbled while throwing a rock. (This fixes the ghost rock bug)
+- You can now locally mute a player with !smute (!sunmute to unmute them)
+- Updated list of what will be displayed by the Skill Detect plugin.
+- Improved a few aspects of infected AI.
+- Fixed escape tanks still spawning on Parish 5. (Using a short term fix, looking for a long term alternative.)
+- Removed clips around Parish 1 start saferoom.
+- Jockeys will now play their bacteria sound upon spawning.
+- Added several possible deagle spawns throughout all the official campaigns.
+- You will now receive a static 25 points per pill that you have at the end of the map. Pill passing will no longer effect your health bonus.
+- Removed the center pellet from the static shotgun spread.
+- Removed "<Tank Stuck Punch Fix>" print spam.
+- Added a print for trying to pick up a restricted weapon while having no weapon.
+- Added custom bonesaw effects for CCT3 winners.
+- Added some holiday cheer to servers across the world.
+
 
 
 4.1
