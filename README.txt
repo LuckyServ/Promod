@@ -1,4 +1,4 @@
-DO NOT UPLOAD THIS!
+4.2
 
 - Fixed some incorrect hittable interactions.
 - Updated Diescraper Redux files to support latest version.
@@ -7,20 +7,18 @@ DO NOT UPLOAD THIS!
 - Boomer hordes will now always be the same size.
 - Fixed witches still taking damage from SI.
 - Tank can no longer be stumbled while throwing a rock. (This fixes the ghost rock bug)
-- You can now locally mute a player with !smute (!sunmute to unmute them)
+- You can now locally mute a player with !mute (!unmute to unmute them)
 - Updated list of what will be displayed by the Skill Detect plugin.
 - Improved a few aspects of infected AI.
 - Fixed escape tanks still spawning on Parish 5. (Using a short term fix, looking for a long term alternative.)
 - Removed clips around Parish 1 start saferoom.
 - Jockeys will now play their bacteria sound upon spawning.
-- Added several possible deagle spawns throughout all the official campaigns.
-- You will now receive a static 25 points per pill that you have at the end of the map. Pill passing will no longer effect your health bonus.
+- You will now find less melee weapons throughout maps, and more deagles / pistols in their place.
 - Removed the center pellet from the static shotgun spread.
-- Removed "<Tank Stuck Punch Fix>" print spam.
-- Added a print for trying to pick up a restricted weapon while having no weapon.
+- Fixed chargers chest bumping against survivors if they attempted to charge from too close.
+- Fixed some instances where infected would not be be immune to being lit on fire.
 - Added custom bonesaw effects for CCT3 winners.
 - Added some holiday cheer to servers across the world.
-
 
 
 4.1
