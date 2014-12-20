@@ -1,3 +1,8 @@
+4.2.1
+
+- The 2014 winter Event has come to an end. Don't be sad though, spring is just around the corner!
+
+
 4.2
 
 - Fixed some incorrect hittable interactions.
