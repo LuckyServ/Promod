@@ -1,6 +1,10 @@
 4.2.1
 
-- The 2014 winter Event has come to an end. Don't be sad though, spring is just around the corner!
+- The 2014 Winter Event has come to an end. Don't be sad though, Spring is just around the corner!
+- Fixed a rare occurence where survivors could deadstop chargers. (About as likely as melee skeeting a rock)
+- Updated Tank Rock Stumble Block plugin.
+- Fixed local mute plugin not loading due to missing translation files.
+- Changed local mute commands from !mute and !unmute to !smute and !sunmute
 
 
 4.2
