@@ -70,7 +70,7 @@
         "start_extra_dist"  "0.000000"
         "end_dist"          "150.000000"
         "witch_flow_min"    "10"
-        "witch_flow_max"    "99"
+        "witch_flow_max"    "80"
     }
     "c2m3_coaster"
     {
@@ -95,7 +95,7 @@
 		"tank_ban_flow_min" "0"
         "tank_ban_flow_max" "16"
         "witch_flow_min"    "10"
-        "witch_flow_max"    "99"
+        "witch_flow_max"    "80"
     }
     "c2m5_concert"
     {

@@ -1,10 +1,39 @@
 4.2.1
+General-
 
-- The 2014 Winter Event has come to an end. Don't be sad though, Spring is just around the corner!
-- Fixed a rare occurence where survivors could deadstop chargers. (About as likely as melee skeeting a rock)
+- The 2014 Pro Mod Winter Event has come to an end. Don't be sad though, Spring is just around the corner!
 - Updated Tank Rock Stumble Block plugin.
 - Fixed local mute plugin not loading due to missing translation files.
-- Changed local mute commands from !mute and !unmute to !smute and !sunmute
+- Changed local mute commands from !mute and !unmute to !smute and !sunmute to avoid conflicts.
+- Updated GeoIP Database.
+- Updated dozens of outdated retro stripper files.
+
+Map Changes-
+
+Dark Carnival 1:
+- Blocked a stuck spot on top of the bridge semi truck.
+- Added an ammo pile spawn in the corner motel room near the police car.
+- Made the path to the motel roof spawn require less jumping.
+Dark Carnival 2:
+- Fixed Chargers getting stuck on the lip of the ramp charge-off at the ladder choke.
+- Blocked witches from spawning during the event.
+Dark Carnival 3:
+- Blocked Suvivors from getting on the shelves in the room after the swan maintenence room, as common cannot path there.
+Dark Carnival 4:
+- Blocked Survivors from getting on top of the tents before the end saferoom, as common cannot path there.
+- Fixed not always being able to charge, jockey, and pull survivors off the lower barn roof sections without getting blocked.
+- Blocked witches from spawning during the event.
+Dark Carnival 5:
+- Fixed sometimes getting Tank-punch-stuck in ceiling clips in the stadium.
+- Reduced the volume of overhead fireworks.
+The Parish 2:
+- Improved clipping on new wall on the right side of the park.
+- Fixed getting stuck on an awning while climbing up an SI ladder during the event.
+- Lowered witch max spawn % to 95% to prevent witches spawning in saferoom.
+The Parish 5:
+- Blocked Survivors from jumping onto the semi at the start.
+- Fixed Survivors getting Tank punched onto the tall concrete blocks at the start.
+- Fixed the 2nd finale tank never spawning.
 
 
 4.2
