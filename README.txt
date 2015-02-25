@@ -1,3 +1,27 @@
+4.2.2
+General-
+
+- Fixed melee weapons standing straight up.
+- Fixed bile bombs spawning in places they shouldn't
+- Reverted the melee weapon reduction change.
+- Players can now easily communicate some game events using !autocom. (This is an early version of this feature, much more will be added later)
+- Disabling lag compensation is no longer allowed in Pro Mod. (Temporary fix to an exploit. In the future you will just not be allowed to toggle it.)
+- Added caster addons support and improved camera control for spectators.
+- Added custom bonesaw effects for a few players.
+- Updated l4d2lib, fixing some error spams.
+
+Map Changes-
+
+Dark Carnival 3:
+- Blocked god spot underneath the first ramp of the coaster.
+- Blocked several shortcuts on the coaster.
+- Pill cabinet max pills reduced from 4 to 2.
+- Added 2 possible pill spawns to the coaster.
+- Added a melee weapon at the bottom of the coaster.
+No Mercy 3:
+- The metal door after the event will now open 20 seconds after pressing the button, instead of never opening.
+
+
 4.2.1
 General-
 
