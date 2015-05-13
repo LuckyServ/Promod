@@ -4,6 +4,7 @@
 - Added molotovs back (Max 1 per map)
 - Molotov burn duration reduced to 5 seconds
 - Molotov max spread reduced by 20%
+- Lighting a witch on fire will now trigger her normally, but will not do any damage.
 - Survivors can no longer get a melee off on tank between punches when cornered.
 - Chargers and tanks will no longer be slowed down by m2s.
 - Removed charger chestbump plugin.
