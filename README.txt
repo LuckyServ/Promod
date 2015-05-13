@@ -1,3 +1,18 @@
+4.3
+- Melee weapons will spawn less often, 
+- Chrome shotgun spread increased by 16% (3.0 -> 3.5)
+- Added molotovs back (Max 1 per map)
+- Molotov burn duration reduced to 5 seconds
+- Molotov max spread reduced by 20%
+- Survivors can no longer get a melee off on tank between punches when cornered.
+- Chargers and tanks will no longer be slowed down by m2s.
+- Removed charger chestbump plugin.
+- Fixed some Pro Mod features not carrying over to Reflux.
+- You now bleed out normally in Reflux.
+- Fixed quad caps not working in Reflux.
+- Fixed 25 damage pounces not working in 1v1s.
+
+
 4.2.2
 General-
 
