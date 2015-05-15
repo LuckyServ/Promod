@@ -1,5 +1,154 @@
+4.3.1
+General-
+
+- Fixed some instances where tanks could be lit on fire.
+- Fixed a bug where you would pull your melee out slower when switching from your primary weapon.
+- Fixed shotgun spread not being properly adjusted to 3.5
+
+Reflux-
+
+- Fixed spitters spawning in Reflux.
+- Fixed hunter limit not being set to 2 in Reflux.
+- Fixed shotguns not being limited to 3 in Reflux.
+
+Map Changes-
+
+Dead Center 1:
+- You will no longer be pushed by the fire on the bottom floor.
+- Removed dressers blocking the window deathcharge at the beginning of the map.
+- Fixed a prop being nonsolid near the end of the map.
+Dark Carnival 2:
+- Blocked an out of bounds spot near the warehouse.
+- Repositioned hittable forklift at the start to be in a less awkward position.
+- Removed 2 green trash cans near forklift.
+- Revamped bush props on elevated area near the start. They should now go around the entire perimeter, take up less space, and will no longer block the infected ladders.
+- Added a way Special Infected can get onto the building in the corner near the warehouse.
+Dark Carnival 3:
+- Fixed pill cabinet having more than 2 pills.
+- Blocked an exploit where you could stand on a small corner in the one way drop hole to avoid falling down.
+- Blocked a stuck spot near the event button building at the end of the map.
+- Blocked an exploit to skip the coaster ramp drop choke.
+Dark Carnival 4:
+- Blocked a stuck spot under an awning on the barn rooftop.
+Swamp Fever 1:
+- Blocked a stuck spot next to the white tank next to the gas station at the start.
+- Blocked Survivors from getting punched onto the above white tank.
+Hard Rain 1:
+- Fixed Survivors being able to be punched onto the bushes near the end.
+- Blocked a god spot on an edge of the Burger Tank sign.
+- Made alarm car spawning logic match campaign mode. 
+Hard Rain 2 & 3:
+- Removed Valve clips in the ramp drop building that would prevent you from jumping in certain areas. Replaced with remade clips of the correct sizes.
+- Fixed getting stuck between an angled pipe on the ground and a walkway above near the ramp drop. Added a small prop as a visual indicator.
+Hard Rain 4:
+- Fixed Survivors being able to be punched onto the bushes near the beginning.
+- Fixed items sometimes spawni!mng in the map 5 Burger Tank area.
+- Removed a prop accidentally left in.
+- Made alarm car spawning logic match campaign mode. 
+Hard Rain 5:
+- Blocked a god spot on an edge of the Burger Tank sign.
+The Parish 1:
+- Blocked a stuck spot on a roof near the alley choke.
+- Blocked a stuck spot on a roof near the end saferoom.
+- Added a path to a tall awning in the right alley at the start.
+- Fixed Survivors getting punched over a wall and out of bounds near the start.
+The Parish 2:
+- Blocked a stuck spot on a roof near the beginning.
+- Removed a melee weapon that could spawn out of bounds near the start.
+The Parish 3:
+- Fixed a stuck spot next to the bridge semi truck.
+- Readded fire on the burning car at the end of the bridge.
+- Removed two pill spawns that could spawn very far off the main path in the graveyard.
+- Removed pill spawns right next to the end saferoom.
+The Parish 4:
+- Fixed a plant prop in the event area having ice-like attributes when walking on it.
+Death Toll 5:
+- Fixed Hunters being unable to pounce in the water.
+- Added a rock next to the dock to nerf camping there.
+- You will now start with a Chrome Shotgun and Silenced SMG.
+Dead Air 3:
+- Added some minor detail props on the ramp at the start.
+Dead Air 4:
+- Removed the second event triggered by walking through the metal detector. 
+- Added a few props to the final stretch to compensate for difficulty change.
+- Removed all doors from the map.
+- Removed some annoying trash can debris props.
+- Allowed Tank to spawn at any point in the map.
+- Blocked a stuck spot in the collapsed ceiling at the start.
+Cold Stream 1:
+- Removed ash particle effects.
+- Removed slowdown on log.
+- The bunker door now opens 400% faster.
+- Banned Tanks from spawning after the one way drop from the cabin.
+Cold Stream 2
+- Removed ash particle effects.
+- Removed static Tank.
+- Tanks can now spawn anywhere in the map.
+- Tank will now lose rage in the saferoom.
+- Removed the event (shooting the exploding barrels will still trigger a horde).
+- Reduced the intensity of the bright sun particle effect at the beginning.
+Cold Stream 3:
+- Blocked death charges off the ladder choke at the start.
+- Tweaked ladder choke in a similar manner to Parish 3.
+- Blocked 6 stuck spots in tree clusters at the start.
+- Banned Tank spawns until after Survivors leave the sewer.
+- Nerfed death charges after the exploding tanker event.
+- Banned Tanks spawning after the exploding tanker event until Survivors reach the water below.
+- Added a path onto end saferoom roof for SI.
+- Added a way out of a stuck spot near the end.
+Cold Stream 4:
+- Now plays like a normal map:
+- Finale horde removed.
+- Removed static 4 pills on the boat near the waterfall drop, as they are no longer necessary.
+- Removed ash particle effects.
+- Added a bush spawn outside the exit to the first building.
+- Removed hittable log near the end of the river.
+- Nerfed ladder choke leading to helicopter by adding boxes to see above the ladder.
+Haunted Forest 1:
+- Removed rock cluster in the right path where the path splits.  This was originally added in CCT1, but this will reduce 1 choke point from the map.
+Haunted Forest 2:
+- Added additional piping near the ladder choke in the beginning of the map.  The ladder is now nerfed comparable to the sewer choke on Parish 3.
+- Added wooden boards leading to the mountain top above the broken SI ladder just before the alarm car area.  This should add more spawn capabilities and may lead to interesting rock tanks.  Note: The props added here are not enjoyable to walk on, but they're something.
+- Removed all hittables from the map except for the alarm car.
+Haunted Forest 3:
+- Reduced Map Distance Score from 700 to 600
+- A burst of horde no longer spawns with the piano tank
+- Promod tank is forced to spawn after the 65% mark as to reward teams who kill the piano tank
+Haunted Forest 4:
+- No more early Promod tanks will spawn
+- All brown shotguns and unsilenced uzis are replaced with chrome shotguns and silenced uzis
+- The pile of rocks near the railings that enables deathpulls over the railings has been removed.
+Dead Before Dawn 1:
+- Survivors no longer spawn in the air in the beginning safe room
+- Made many hittables non-hittable.
+- Infected can now spawn behind the various hedges in the map
+- The crazy driver in the beginning will no longer appear (the guy who hit Xbyes tank with his car)
+Dead Before Dawn 2:
+- Infected can now scratch through the doors throughout the map (allowing for more diverse tank spawns)
+- Infected can now scratch through the delivery truck backdoor near the event.
+- Survivors now bypass the crank-scavenge event. All areas that were accessible for the crank-scavenge are still accessible.
+Dead Before Dawn 3:
+- The gun shop is now accessible without a keycard
+- The god room no longer insta-kills infected when they enter it
+Dead Before Dawn 4:
+- The forklift event no longer runs infinitely
+- Infected ghosts no longer fall through the floor on the second floor of the mall near the gun shop
+- The red propane tank near the end is already in place and ready to be blown, skipping the propane-scavenge portion of the map.
+Dead Before Dawn 5:
+- There will now always be an early tank again
+- Fixed an issue where the second tank would not spawn
+- Added more exploit blockers
+Carried Off 2:
+- Removed shelf prop in the warehouse that was blocking an infected ladder
+Detour Ahead 2:
+- Made 3 hittable cars, not hittable in the main road before the event
+Detour Ahead 4:
+- Significantly nerfed the train ladder choke
+Detour Ahead 5:
+- Reduced Map Distance from 700 to 600 (Vanilla map distance is 800)
+
 4.3
-- Melee weapons will spawn less often, 
+- Melee weapons will spawn less often, and further apart from eachother
 - Chrome shotgun spread increased by 16% (3.0 -> 3.5)
 - Added molotovs back (Max 1 per map)
 - Molotov burn duration reduced to 5 seconds
