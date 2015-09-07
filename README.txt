@@ -1,3 +1,19 @@
+4.4
+- Players are no longer able to skip their death cam as infected to manipulate their spawn time and sac order. (Pro Mod and Reflux only)
+- Spawn timers reduced by 2 seconds in Pro Mod and Reflux.
+- Removed custom bonesaw effects. (I got more complaints about them than expected, contact me if you wanna talk about it)
+- Doors and breakable props can no longer be broken during readyup.
+- Updated readyup so that only the survivor who attempts to leave saferoom will be warped back, rather than the whole team.
+- Fixed melee weapons not being limited to 0 in Reflux.
+- Common infected will no longer fight each other.
+- Removed "Found x in x team. Moved him back to spec team." print.
+- Removed "<TankPunchStuck> Found x stuck after a punch. Warped him to a valid position" print.
+- Survivors will no longer have a forced delay between melee swings after being punched.
+- Survivors will now be forced to pull out their primary weapon (if they have ammo available) when punched by tank.
+- Survivors will no longer "slide" if they are stumbled while in a get-up animation. Boomers are an exception and will still push survivors.
+- Potentially fixed Swamp Fever finale bugging out for the 2nd team if the 1st team wipes before starting the finale.
+
+
 4.3.1
 General-
 
