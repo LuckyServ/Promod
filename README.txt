@@ -1,3 +1,12 @@
+4.4.2
+- Fixed some unbreakable doors becoming breakable on round start.
+- Fixed fire, again. (Molotovs have not been re-added yet)
+- Fixed a way that infected were still able to skip their death cams.
+- Fixed all survivors being warped when only one attempted to leave saferoom.
+- Fixed !cast. Please ensure that when using sm_add_caster_id (such as in confogl_personalize.cfg), you always use STEAM_1 ids rather than STEAM_0.
+- Usage of !cast: If a user has been added as a caster, they can type !cast (sm_cast) to self-register. Admins can type !caster <username> (sm_caster <username>) to explicitly add someone.
+- Casters now have access to sv_cheats commands, such as fog_enable, mat_fullbright, or mat_postprocess_enable. Cheat cvars will be reset upon joining a team.
+
 4.4.1
 - Fixed some instances of survivors dropping their weapons when punched by tank on high tick rate servers.
 - Removed molotovs since tanks are still being lit. I will re-add them when I am certain they are working.
