@@ -1,8 +1,102 @@
+4.5
+- Snow and Christmas lights are back for a limited time. Another campaign has been lit up this year! Snow can be disabled with !nosnow
+- Blocked audio lines and captions for when a survivor sees a hunter, to prevent sneaky hunters being exposed.
+- Fixed spawn timers being set too low in reflux.
+- Fixed boomer hordes being too large in reflux.
+- Infected now have a 20 second cooldown on despawning to prevent spamming respawns for health gain. (Only applies to spawned infected)
+- Forced all crouching hunters to emit sound, even if they are not holding crouch.
+- Fixed a bug which could cause survivors to drop their gun when being punched by a tank while their melee is equipped.
+- Fixed tanks dealing self-damage with hittables.
+- Fixed a potential exploit with the death cam skip block.
+- Added AutoPause: Game automatically pauses when a player crashes. If an infected player crashes, their spawn timer is restored upon rejoining.
+- Fixed various double-getups.
+- Fixed a bug where punching a player who was jockeyed would not give them a getup.
+- When a player is rocked and then punched, they will undergo a punch getup animation after the rock animation ends.
+- Witches now deal continuous damage like Hunters and Jockeys. This makes the damage more accurate to her animations.
+- Tanks no longer go AI after third pass, instead they are set on fire. Current burn time is 30 seconds from max hp. They can not be extinguished.
+- After the tank fight, the infected team will now see damage dealt to health bonus, rather than damage dealt to tank. Spectators see both.
+- Votes can now be called 40s after map change or once 6 players have loaded.
+- Survivors can no longer shove other survivors, which slowed them and shook their screen.
+- The bunny-hopping window as jockey has been extended by .05 seconds.
+- Survivors are no longer slowed / held in place after being cleared from a smoker, they can now instantly move at full speed.
+- Tank slowdown is now proportional based on weapon and distance: Uzis deal 80% slowdown, shotguns deal 50%. When an uzi deals 1 damage, it provides <1% slowdown to the tank.
+- Survivors will now take a maximum of 30 fall damage if they are pounced or jockeyed while on the no mercy 3 sewer ladder.
+- Updates to spechud:
+-- Health Bonus / Damage Bonus is now visible
+-- Changed 'P', 'DP', 'M', and 'DE' to 'Pistol', 'Dual Pistols', 'Melee', and 'Deagle' respectively
+-- Added health for ghost infected
+- Who will become tank is now printed to casters on round start.
+- Spawns out of saferoom can now be checked manually by all players by typing !spawns (sm_spawns). They will still be automatically printed to the survivors on round start.
+- Fixed a bug where spectators could !unready and cancel countdown.
+- Added red flash when a tank gets melee'd (from EQ)
+- You can change from boomer to spitter (and back) while tank is up by right-clicking.
+- Fixed a bug where spitter limit didn't get reset if tank disconnected, was sm_kicked, or level was changed via changelevel or sm_map.
+- Pistol fire rate is now capped: 0.1 seconds for dual pistols, 0.2 seconds for single, and 0.3 while incapped.
+- Dual pistols can be autofired by holding mouse1 at 0.3 seconds per shot.
+- Special infected no longer deal damage to witches. Scratch away!
+- Health bonus now correctly handles incapped and ledge-hung survivors.
+- Health bonus can no longer be manipulated by passing pills.
+- Made another attempt to fix silent jockeys. If you have any recorded evidence (demo, cast) of this taking place, please tell us!
+- Re-added molotovs. They will now work as previously intended. (Will not ignite infected, just deal AOE damage)
+- Jockeys will no longer latch onto ladders while riding a survivor. (They will drop normally, rather than sliding slowly down the ladder)
+- Tanks will now lose rage normally while survivors are in any saferoom.
+- Retro and Reflux now share the Hunters stripper folder. (Reduced package size quite a bit)
+- Removed orange traffic cone props (prop_physics only) from all maps due to blocking hittables and having exploit potential.
+- Map Distance Rebalancing: All non-finale maps now have between 400 and 600 distance points. In addition, all 5 map campaigns are now equal in value and worth a total of 2800 points (Valve maps only). 
+
+Map Changes:
+
+Arena Of The Dead 1
+- Unblocked alternate path outside.
+
+Dark Carnival 2
+- Added an ammo pile near the carousel for late Tank fights
+- Blocked Survivors from jumping on the soda machine at the very end of the map
+
+Dark Carnival 3
+- Added some props to reduce available space in the saferoom to discourage players from fighting the Tank there (like in Dark Carnival 4)
+- Increased the chances that an outside pre-coaster Tank can spawn by modifying the ban range to begin at 60% rather than 55% (coaster Tanks are still banned)
+- Blocked Survivors from jumping across the fence to skip the coaster ramp choke
+- Blocked an exploit to jump to the end of the coaster after the one way drop by climbing up wood pieces
+
+Dark Carnival 4
+- Blocked Survivors from getting punched out of bounds under the awning near the bumper cars
+- Blocked two stuck spots underneath the event button roof
+
+Dark Carnival 5
+- Re-added two fireworks boxes
+- Fixed players getting stuck under the left-side helicopter when it arrives by adding two props to block the stuck spot
+
+Swamp Fever 3
+- Blocked a stuck spot in a small shack 
+
+Swamp Fever 4
+- Blocked Survivors from jumping on the fence before the town
+- Removed a wooden fence prop near the hittable log
+
+Hard Rain 2 & 3
+- Blocked Survivors from being able to skip the sugarcane field by getting onto the warehouse roof beside it
+- Fixed Hard Rain 3 missing some exploit fixes present in map 2
+
+The Parish 2
+- Changed weapon spawn near restrooms to pump shotgun
+- Fixed Witches spawning in the end saferoom
+- Blocked Survivors from getting on top of the various soda machines, televisions, barricades, and windowsills in the bus station due to no navigation mesh
+- Fixed the large sign on the bus station being see-through from behind
+- Removed the annoying event alarm sound
+
+No Mercy 3
+- Fixed being unable to open the way-back door after the event
+
+No Mercy 4
+- Blocked Survivors from climbing on top of the barricades / windows in the break room Tank fighting area
+
+
 4.4.2
 - Fixed some unbreakable doors becoming breakable on round start.
 - Fixed fire, again. (Molotovs have not been re-added yet)
 - Fixed a way that infected were still able to skip their death cams.
-- Fixed all survivors being warped when only one attempted to leave saferoom.
+- Fixed all survivors being warped when only one attempted to leave saferoom during readyup.
 - Fixed !cast. Please ensure that when using sm_add_caster_id (such as in confogl_personalize.cfg), you always use STEAM_1 ids rather than STEAM_0.
 - Usage of !cast: If a user has been added as a caster, they can type !cast (sm_cast) to self-register. Admins can type !caster <username> (sm_caster <username>) to explicitly add someone.
 - Casters now have access to sv_cheats commands, such as fog_enable, mat_fullbright, or mat_postprocess_enable. Cheat cvars will be reset upon joining a team.
@@ -70,7 +164,7 @@ Swamp Fever 1:
 Hard Rain 1:
 - Fixed Survivors being able to be punched onto the bushes near the end.
 - Blocked a god spot on an edge of the Burger Tank sign.
-- Made alarm car spawning logic match campaign mode. 
+- Made alarm car spawning logic match campaign mode.
 Hard Rain 2 & 3:
 - Removed Valve clips in the ramp drop building that would prevent you from jumping in certain areas. Replaced with remade clips of the correct sizes.
 - Fixed getting stuck between an angled pipe on the ground and a walkway above near the ramp drop. Added a small prop as a visual indicator.
@@ -78,7 +172,7 @@ Hard Rain 4:
 - Fixed Survivors being able to be punched onto the bushes near the beginning.
 - Fixed items sometimes spawni!mng in the map 5 Burger Tank area.
 - Removed a prop accidentally left in.
-- Made alarm car spawning logic match campaign mode. 
+- Made alarm car spawning logic match campaign mode.
 Hard Rain 5:
 - Blocked a god spot on an edge of the Burger Tank sign.
 The Parish 1:
@@ -103,7 +197,7 @@ Death Toll 5:
 Dead Air 3:
 - Added some minor detail props on the ramp at the start.
 Dead Air 4:
-- Removed the second event triggered by walking through the metal detector. 
+- Removed the second event triggered by walking through the metal detector.
 - Added a few props to the final stretch to compensate for difficulty change.
 - Removed all doors from the map.
 - Removed some annoying trash can debris props.
