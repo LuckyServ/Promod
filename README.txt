@@ -1,3 +1,17 @@
+4.5.1
+- Fixed spechud / tankhud not loading.
+- Fixed tanks passing to a 2nd player rather than being lit on fire.
+- Fixed a debug print parsing when a player is incapped by witch.
+- Fixed some props being missing on Parish 3.
+- Fixed an invis wall blocking survivors from advancing through the map on Hard Rain 3.
+- Added christmas lights to all side configs.
+- Fixed health bonus changes not printing to infected / specs when tank dies.
+- Fixed boomers / spitters not being in spawn rotation after tanks.
+- You can no longer swap between boomer and spitter if your team has both a boomer and a spitter.
+- Fixed players being unable to move in water when tank is in play.
+- Fixed health bonus not loading.
+- Fixed special infected being slowed down by bullets.
+
 4.5
 - Snow and Christmas lights are back for a limited time. Another campaign has been lit up this year! Snow can be disabled with !nosnow
 - Blocked audio lines and captions for when a survivor sees a hunter, to prevent sneaky hunters being exposed.
