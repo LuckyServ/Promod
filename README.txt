@@ -1,3 +1,12 @@
+4.5.2
+- Re-Added updated spechud / tankhud (Fixes tank passes not being updated)
+- Re-Added updated health bonus.
+- Fixed SI still being slowed by bullets.
+- Fixed jockeys being completely silent.
+- Fixed tank print not occuring. (Tank is now in play!)
+- Fixed a bug where if tank was set on fire via 3rd pass but didn't die before map changed, he could be set on fire in the next map
+- Fixed pistol autofire being completely silent.
+
 4.5.1
 - Fixed spechud / tankhud not loading.
 - Fixed tanks passing to a 2nd player rather than being lit on fire.
