@@ -47,6 +47,7 @@ Dark Carnival 4:
 - Blocked Survivors from getting punched out of bounds under the awning near the bumper cars
 - Blocked two stuck spots underneath the event button roof
 Dark Carnival 5:
+- Re-added two fireworks boxes
 - Fixed players getting stuck under the left-side helicopter when it arrives by adding two props to block the stuck spot
 Swamp Fever 1:
 Lowered map distance from 600 to 500.
