@@ -1,4 +1,5 @@
 5.0.2
+- Removed forced hunter crouch sound.
 - Fixed some stat prints not working in 1v1 configs.
 - Fixed auto jockey hops not loading in main config.
 - Blocked spit damage inside Dead Center 1 and 4 elevators.
