@@ -1,16 +1,17 @@
+5.0.3
+- Fixed hunter sound still loading in main config.
+- Fixed readyup bug where casters couldn't readyup.
+- Fixed readyup bug where event doors could become breakable on round start.
+
 5.0.2
-- Removed forced hunter crouch sound.
-- Fixed some stat prints not working in 1v1 configs.
-- Fixed auto jockey hops not loading in main config.
-- Blocked spit damage inside Dead Center 1 and 4 elevators.
+- Removed hunter crouch sound.
+- Fixed auto jockey hops not loading in main config
 - SMG spread increase when moving reduced from 3x to 1.65 and 1.75 (uzi / silenced)
 - SMG spread increase per shot reduced from .32 / .40 to .20 / .26 (uzi / silenced)
 - In other words, SMG sprays are now much less random while moving. Please give feedback so numbers can be tweaked.
 
-
 5.0.1
 - Minor bug fixes
-
 
 5.0
 - Jockey max hp reduced to 275.
