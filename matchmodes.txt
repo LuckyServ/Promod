@@ -1,0 +1,57 @@
+"MatchModes"
+{
+	"Promod 5.0.3"
+	{
+		"promod"
+		{
+			"name" "4v4 Promod"
+		}
+		"pm3v3"
+		{
+			"name" "3v3 Promod"
+		}
+		"pm2v2"
+		{
+			"name" "2v2 Promod"
+		}
+		"pm1v1"
+		{
+			"name" "1v1 Promod"
+		}
+		"pmredtown"
+		{
+			"name" "Redtown"
+		}
+		"reflux"
+		{
+			"name" "Reflux"
+		}
+		"retro"
+		{
+			"name" "Retro"
+		}
+	}
+	"Promod Hunters 5.0.3"
+	{
+		"hunters"
+		{
+			"name" "4v4 Hunters"
+		}
+		"hunters3v3"
+		{
+			"name" "3v3 Hunters"
+		}
+		"hunters2v2"
+		{
+			"name" "2v2 Hunters"
+		}
+		"hunters1v1"
+		{
+			"name" "1v1 Hunters"
+		}
+		"deadman"
+		{
+			"name" "Deadman"
+		}
+	}
+}
